@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\maconrm180\\Desktop\\Dominick Richardson\\TournementTracker\\TrackerLibrary\\TrackerLibrary.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\maconrm180\\Desktop\\Dominick Richardson\\TournementTracker\\TrackerLibrary\\TrackerLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maconrm180\\Desktop\\Dominick Richardson\\TournementTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+        "projectName": "TrackerLibrary",
+        "projectPath": "C:\\Users\\maconrm180\\Desktop\\Dominick Richardson\\TournementTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+        "packagesPath": "C:\\Users\\maconrm180\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maconrm180\\Desktop\\Dominick Richardson\\TournementTracker\\TrackerLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maconrm180\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
